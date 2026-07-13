@@ -1,0 +1,26 @@
+[
+  {
+    "amount": 8000.0,
+    "category": "tv",
+    "date": "26-06-2026",
+    "note": "happy to buy it"
+  },
+  {
+    "amount": 10000.0,
+    "category": "mobile",
+    "date": "24-05-2026",
+    "note": "only redmi mob could be able to buy at this price"
+  },
+  {
+    "amount": 50000.0,
+    "category": "iphone",
+    "date": "17-06-2026",
+    "note": ""
+  },
+  {
+    "amount": 7000.0,
+    "category": "course",
+    "date": "07-07-2026",
+    "note": "online python full stack course"
+  }
+]
